@@ -1,0 +1,237 @@
+.nav{
+height: 60px;
+width: 150px;
+
+color: black;
+}
+.nav2{
+    height: 50px;
+    width: 200px;
+
+    color: black;
+ 
+    }
+
+    .mainnav{
+gap: 30px;
+display: flex;
+flex-wrap: wrap;
+
+    }
+
+    .mainnav2{
+        margin-left: 20px;
+        display: flex;
+        width: 100%;
+        min-height: 100px;
+ 
+        align-items: center;
+       justify-content: space-around;
+       flex-wrap: wrap;
+    }
+
+
+    #navbarr{
+        position: sticky;
+        top: 0px;
+    }
+
+    .list{
+height: 35px;
+width: 100%;
+
+
+    }
+.list ol li{
+float: left;
+margin: 0px 14px;
+    list-style-type: none;
+   
+}
+.list ol li:hover{
+    color: rgb(22, 192, 45);
+    cursor: pointer;
+}
+
+
+.round{
+min-height: 350px;
+width: 100%;
+
+display: flex;
+justify-content: center;
+gap: 40px;
+flex-wrap: wrap;
+
+}
+
+
+.roundcard1{
+width: 100px;
+height: 100px;
+background-color: orangered;
+border-radius: 50px;
+}
+
+.roundcard2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(241, 238, 33);
+    border-radius: 50px;
+    }
+    .roundcard3{
+        width: 100px;
+        height: 100px;
+        background-color: rgb(219, 170, 138);
+        border-radius: 50px;
+        }
+
+        .roundcard4{
+            width: 100px;
+            height: 100px;
+            background-color: rgb(47, 89, 228);
+            border-radius: 50px;
+            }
+            .roundcard5{
+                width: 100px;
+                height: 100px;
+                background-color: rgb(226, 212, 202);
+                border-radius: 50px;
+                }  
+                .roundcard6{
+                    width: 100px;
+                    height: 100px;
+                    background-color: rgb(18, 190, 243);
+                    border-radius: 50px;
+                    }  
+                    .roundcard7{
+                        width: 100px;
+                        height: 100px;
+                        background-color: rgb(135, 216, 226);
+                        border-radius: 50px;
+                        }  
+                        .roundcard8{
+                            width: 100px;
+                            height: 100px;
+                            background-color: rgb(219, 170, 138);
+                            border-radius: 50px;
+                            }  
+                            .roundcard9{
+                                width: 100px;
+                                height: 100px;
+                                background-color: rgb(22, 101, 190);
+                                border-radius: 50px;
+                                }  
+                                .roundcard10{
+                                    width: 100px;
+                                    height: 100px;
+                                    background-color: rgb(236, 131, 61);
+                                    border-radius: 50px;
+                                    }  
+                                    .roundcard11{
+                                        width: 100px;
+                                        height: 100px;
+                                        background-color: rgb(126, 202, 238);
+                                        border-radius: 50px;
+                                        }  
+                                        .roundcard12{
+                                            width: 100px;
+                                            height: 100px;
+                                            background-color: rgb(226, 121, 52);
+                                            border-radius: 50px;
+                                            }  
+                                            .roundcard13{
+                                                width: 100px;
+                                                height: 100px;
+                                                background-color: rgb(197, 133, 192);
+                                                border-radius: 50px;
+                                                }  
+                                                .roundcard14{
+                                                    width: 100px;
+                                                    height: 100px;
+                                                    background-color: rgb(153, 209, 79);
+                                                    border-radius: 50px;
+                                                    }                     
+                                              .round h3{
+                                                width: 95px;
+                                                height: 70px;
+                                                font-size: 18px;
+                                                text-align: center;
+                                              }
+
+
+
+
+
+
+
+
+.footer{
+  
+width: 100%;
+min-height: 150px;
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+background-color: #f1f1f1;
+}      
+.footer h6{
+    text-align: center;
+}
+.footer ol li{
+    list-style-type: none;
+color: rgb(80, 79, 79);
+font-size: 13px;
+}
+.foot1{
+height: 150px;
+width: 220px;
+
+}
+.foot2{
+    height: 150px;
+    width: 220px;
+    
+    }
+    .foot3{
+        height: 150px;
+        width: 220px;
+        
+        }
+        .foot4{
+            height: 150px;
+            width: 220px;
+            
+            }
+            .foot5{
+                height: 150px;
+                width: 220px;
+                
+                }
+
+
+                .icons{
+                    
+                    width: 100px;
+                    height: 70px;
+                }
+
+                .footer .icons{
+                    text-align: center;
+                }
+
+.foott{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(31, 56, 31);
+}
+
+
+                @media only screen and (max-width : 650px){
+#n{
+ display: none;
+ 
+}
+
+                }
